@@ -5,12 +5,12 @@ Hello, I'm a passionate developer with a focus on building practical, innovative
 
 ## Skills & Technologies
 - **Frontend Development:** React, EJS, Material UI, HTML, CSS, Bootstrap
-- **Backend Development:** Node.js, Express.js
-- **Databases:** SQLite, MongoDB
-- **Game Development:** Unity (2D and 3D), C#
+- **Backend Development:** Node.js, Express.js, Python
+- **Databases:** SQLite, Postgres, MSSQL
+- **Game Development:** Unity (2D and 3D), C#, Python
 - **Web3 & Blockchain:** Smart contracts, cryptocurrency integrations
-- **Tools & Platforms:** Git, GitHub, Docker, VS Code, Figma
-- **Other Expertise:** Responsive design, API development, UI/UX design, data visualization
+- **Tools & Platforms:** Git, GitHub, Docker, VS Code, Netlify, OnRender
+- **Other Expertise:** Responsive design, API development, UI/UX design, data visualization, and blockchain / cryptocurrency
 
 ## Capabilities
 - **Web Applications:** Development of dynamic, responsive web apps with user authentication, interactive features, and seamless database integrations.
@@ -22,6 +22,6 @@ Hello, I'm a passionate developer with a focus on building practical, innovative
 
 ## Let's Connect!
 If you're interested in collaborating, discussing ideas, or learning more about my work, feel free to reach out!  
-🌐 **Portfolio:** [Your Website](https://camwp.netlify.app)  
+🌐 **Portfolio:** [My Portfolio](https://camwp.netlify.app)  
 
 Thank you for visiting my portfolio! 
