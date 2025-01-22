@@ -1,16 +1,27 @@
-## Hi there 👋
+# Welcome to My Portfolio! 👋
 
-<!--
-**Camwp/Camwp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Hello, I'm a passionate developer with a focus on building practical, innovative, and engaging applications. My work spans a wide variety of domains, from web development to game creation and utility tools. I enjoy solving complex problems and creating user-friendly solutions that make life easier or more enjoyable.
 
-Here are some ideas to get you started:
+## Skills & Technologies
+- **Frontend Development:** React, EJS, Material UI, HTML, CSS, Bootstrap
+- **Backend Development:** Node.js, Express.js
+- **Databases:** SQLite, MongoDB
+- **Game Development:** Unity (2D and 3D), C#
+- **Web3 & Blockchain:** Smart contracts, cryptocurrency integrations
+- **Tools & Platforms:** Git, GitHub, Docker, VS Code, Figma
+- **Other Expertise:** Responsive design, API development, UI/UX design, data visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Capabilities
+- **Web Applications:** Development of dynamic, responsive web apps with user authentication, interactive features, and seamless database integrations.
+- **Game Development:** Creation of engaging and scalable games, with features such as procedural generation, dynamic inventory systems, and character customization.
+- **Personal Finance Tools:** Budgeting and expense tracking applications with customizable schedules, analytics, and visual reports.
+- **Dashboards & Analytics:** Real-time tracking dashboards for financial data, portfolio management, and market insights.
+- **Utility Tools:** Development of productivity and collaboration tools, enhancing team workflows and user interactions.
+- **Blockchain Solutions:** Integration of blockchain technology into applications for unique user experiences, such as NFTs, token-based interactions, and decentralized platforms.
+
+## Let's Connect!
+If you're interested in collaborating, discussing ideas, or learning more about my work, feel free to reach out!  
+🌐 **Portfolio:** [Your Website](https://camwp.netlify.app)  
+
+Thank you for visiting my portfolio! 
